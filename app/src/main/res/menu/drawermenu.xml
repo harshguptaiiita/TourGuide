@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Home"
+          android:id="@+id/nav_item_inbox"
+          android:icon="@drawable/inbox"/>
+
+    <item android:title=""
+          android:id="@+id/nav_item_sent"
+          android:icon="@drawable/sent"/>
+
+    <item android:title="Drafts"
+          android:id="@+id/nav_item_draft"
+          android:icon="@drawable/draft"/>
+
+
+
+
+
+
+
+        <item android:title="FAQs"
+              android:icon="@drawable/settings"/>
+        <item android:title="Contact Us "
+             android:icon="@drawable/help"/>
+
+
+
+</menu>
